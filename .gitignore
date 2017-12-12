@@ -1,0 +1,5 @@
+# JAVA PROJECT BUILD
+out
+
+# GRADLE
+.gradle
